@@ -20,7 +20,6 @@ describe("API Pact test", () => {
         id: "10",
         type: "CREDIT_CARD",
         name: "28 Degrees",
-        color: "Red",
       };
 
       // Uncomment to see this interaction fail on the provider side
